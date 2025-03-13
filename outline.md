@@ -29,7 +29,3 @@ Blog
 contact 
 home 
 login 
-
-
-
-
